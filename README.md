@@ -1,8 +1,6 @@
 ## Hello there 👋
 
-[Portafolio] ()
-
-[Portafolio]((https://anduriz.github.io/).
+Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 
 <!--
 **Anduriz/Anduriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

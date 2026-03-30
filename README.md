@@ -2,9 +2,9 @@
 
 **Backend Software Engineer | AWS | Fintech & Payment Ecosystems**
 
-I'm a Backend Software Engineer based in Guatemala, specialized in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS**.
+I'm a Computer Science Engineer fueled by coffee ☕, with comprehensive knowledge of software development and UX design. Based in Guatemala, my main objective as a software engineer is to contribute to projects that allow me to face new challenges, learn new technologies, and collaborate with people that help me grow into a world-class developer. 👾
 
-I have solid experience building complex financial integrations, connecting payment gateways, and securing high-transaction ecosystems under strict regulations like **PCI-DSS**. 
+I specialize in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS Serverless architecture**, with solid experience building complex financial integrations and securing high-transaction ecosystems under strict regulations like **PCI-DSS**. 
 
 *While my core expertise is Backend architecture, I'm also enthusiastic about Frontend development and enjoy building user interfaces with **React**.*
 

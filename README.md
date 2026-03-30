@@ -10,10 +10,10 @@ While my core expertise is Backend architecture, I'm also enthusiastic about Fro
 
 ### 🛠️ Core Tech Stack
 
-* **Languages & Environments:** TypeScript, Node.js, JavaScript, PHP
-* **Cloud & Infrastructure:** AWS (Lambda, API Gateway, DynamoDB, S3, Event Triggers), Docker
-* **Databases:** PostgreSQL, MySQL, MongoDB
-* **Architecture & Security:** RESTful APIs, Event-Driven Architecture, JWT, Tokenization, Open Banking
+* **Languages & Environments:** TypeScript, Node.js, PHP, Laravel
+* **Cloud & Infrastructure:** AWS (Serverless), Docker
+* **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB
+* **AI Tools:** Gemini Code Assist, Claude Code, Prompt Engineering
 * **Frontend (Enthusiast):** React.js
 
 ### 🚀 Areas of Expertise

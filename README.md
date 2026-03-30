@@ -1,8 +1,8 @@
 # Hi, I'm Andy Arellano 👋
 
-**Backend Software Engineer | AWS Serverless | Fintech & Payment Ecosystems**
+**Backend Software Engineer | AWS | Fintech & Payment Ecosystems**
 
-I'm a Backend Software Engineer based in Guatemala, specialized in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS Serverless architecture**.
+I'm a Backend Software Engineer based in Guatemala, specialized in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS**.
 
 I have solid experience building complex financial integrations, connecting payment gateways, and securing high-transaction ecosystems under strict regulations like **PCI-DSS**. 
 

@@ -21,7 +21,7 @@ While my core expertise is Backend architecture, I'm also enthusiastic about Fro
 * 💳 **Core Financials:** End-to-end implementation of authorization, capture, and reversal flows.
 * 🔒 **Security:** Data masking, vulnerability prevention, and 3DS protocols.
 * ☁️ **Cloud:** AWS deployments focused on high availability and resource optimization.
-* ⚙️ **B2B Integrations:** From modern digital wallets (Apple/Google Pay) to legacy protocols (SOAP, SFTP).
+* ⚙️ **B2B Integrations:** From modern digital wallets to legacy protocols (SOAP, SFTP).
 
 ### 📫 Connect with me
 

@@ -6,7 +6,7 @@ I'm a Computer Science Engineer fueled by coffee ☕ based in Guatemala. My main
 
 I specialize in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS Serverless architecture**, with solid experience building complex financial integrations and securing high-transaction ecosystems under strict regulations like **PCI-DSS**. 
 
-*While my core expertise is Backend architecture, I'm also enthusiastic about Frontend development (React) and leveraging **AI-driven development** tools to enhance productivity.*
+While my core expertise is Backend architecture, I'm also enthusiastic about Frontend development (React) and leveraging **AI-driven development** tools to enhance productivity.
 
 ### 🛠️ Core Tech Stack
 

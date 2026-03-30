@@ -1,6 +1,6 @@
 # Hi, I'm Andy Arellano 👋
 
-**Backend Software Engineer | AWS Serverless | Fintech & Payment Ecosystems**
+**Backend Software Engineer | AWS | Fintech & Payment Ecosystems**
 
 I'm a Computer Science Engineer fueled by coffee ☕ based in Guatemala, and my main objective as a software engineer is to contribute to projects that allow me to face new challenges, learn new technologies, and collaborate with people that help me grow into a world-class developer. 👾
 

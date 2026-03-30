@@ -2,7 +2,7 @@
 
 **Backend Software Engineer | AWS | Fintech & Payment Ecosystems**
 
-I'm a Computer Science Engineer fueled by coffee ☕ based in Guatemala, and my main objective as a software engineer is to contribute to projects that allow me to face new challenges, learn new technologies, and collaborate with people that help me grow into a world-class developer. 👾
+I'm a Computer Science Engineer fueled by coffee ☕ based in Guatemala. My main objective as a software engineer is to contribute to projects that allow me to face new challenges, learn new technologies, and collaborate with people that help me grow into a world-class developer. 👾
 
 I specialize in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS Serverless architecture**, with solid experience building complex financial integrations and securing high-transaction ecosystems under strict regulations like **PCI-DSS**. 
 

@@ -4,7 +4,9 @@
 
 I'm a Backend Software Engineer based in Guatemala, specialized in designing and scaling RESTful APIs using **TypeScript, Node.js, and AWS Serverless architecture**.
 
-I have solid experience building complex financial integrations, connecting payment gateways, and securing high-transaction ecosystems under strict regulations like **PCI-DSS**.
+I have solid experience building complex financial integrations, connecting payment gateways, and securing high-transaction ecosystems under strict regulations like **PCI-DSS**. 
+
+*While my core expertise is Backend architecture, I'm also enthusiastic about Frontend development and enjoy building user interfaces with **React**.*
 
 ### 🛠️ Core Tech Stack
 
@@ -12,6 +14,7 @@ I have solid experience building complex financial integrations, connecting paym
 * **Cloud & Infrastructure:** AWS (Lambda, API Gateway, DynamoDB, S3, Event Triggers), Docker
 * **Databases:** PostgreSQL, MySQL, MongoDB
 * **Architecture & Security:** RESTful APIs, Event-Driven Architecture, JWT, Tokenization, Open Banking
+* **Frontend (Enthusiast):** React.js
 
 ### 🚀 Areas of Expertise
 
